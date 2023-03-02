@@ -18,8 +18,8 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'spree_core', '>= 4.0.0.alpha', '< 4.9.0'
-  s.add_dependency 'spree_frontend', '>= 4.0', '< 4.9.0'
-  s.add_dependency 'spree_backend', '>= 4.0', '< 4.9.0'
+  s.add_dependency 'spree_frontend', '>= 4.0.0.alpha', '< 4.9.0'
+  s.add_dependency 'spree_backend', '>= 4.0.0.alpha', '< 4.9.0'
   s.add_dependency 'spree_extension'
   s.add_dependency 'date_validator'
 
